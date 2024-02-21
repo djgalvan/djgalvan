@@ -11,10 +11,24 @@
 
 RailRoad Life since 2010
 
-<img src="resources/screwdriver-wrench-solid.svg" height=18 width=18 /> - Laborer:     2010-2015 <br />
-<img src="resources/tractor-solid.svg" height=18 width=18 /> - Operator:    2015-2017 <br />
-<img src="resources/truck-fast-solid.svg" height=18 width=18 /> - Driver:      2017-2024 <br />
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    table, th, td {
+       border: none;
+    }
+    blockquote {
+        border-left: none;
+        padding-left: 10px;
+    }
+</style>
 
+|-------------------------------------------------------------------------|-----------|-----------|
+| <img src="resources/screwdriver-wrench-solid.svg" height=18 width=18 /> | Laborer:  | 2010-2015 |
+| <img src="resources/tractor-solid.svg" height=18 width=18 />            | Operator: | 2015-2017 |
+| <img src="resources/truck-fast-solid.svg" height=18 width=18 />         | Driver:   | 2017-2024 |
+|-------------------------------------------------------------------------|-----------|-----------|
 
 <!---
 djgalvan/djgalvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
