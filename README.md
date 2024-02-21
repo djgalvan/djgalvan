@@ -11,7 +11,6 @@
 
 | <img src="resources/sign-railroad.svg" height=18 width=18 />            | RailRoad Life since 2010 | <img src="resources/sign-railroad-fill.svg" height=18 width=18 /> |
 |-------------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------|
-|                                                                         | Role                     | Years                                                             |
 | <img src="resources/screwdriver-wrench-solid.svg" height=18 width=18 /> | Laborer                  | 2010-2015                                                         |
 | <img src="resources/tractor-solid.svg" height=18 width=18 />            | Operator                 | 2015-2017                                                         |
 | <img src="resources/truck-fast-solid.svg" height=18 width=18 />         | Driver                   | 2017-2024                                                         |
