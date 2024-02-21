@@ -9,7 +9,7 @@
 
 # About Me
 
-RailRoad Life since 2010
+| <img src="resources/sign-railroad.svg" height=18 width=18 /> | RailRoad Life since 2010 | <img src="resources/sign-railroad-fill.svg" height=18 width=18 /> |
 
 |                                                                         | Role     | Years     |
 |-------------------------------------------------------------------------|----------|-----------|
