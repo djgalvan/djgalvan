@@ -2,10 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning SQL, C, C#, Python, Git
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me:
 
-  <img src="resources/facebook.svg" height=18 />   [djairo90](https://www.facebook.com/djairo90/) <br />
-  <img src="resources/facebook-messenger.svg" height=18 />   [djairo90](https://m.me/djairo90)
 
 # About Me
 
