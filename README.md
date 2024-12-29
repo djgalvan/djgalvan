@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @djgalvan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular, Prism, & NestJS.
-- 💞️ I’m looking to collaborate on anything
 
 
 # About Me
